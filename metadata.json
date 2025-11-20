@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI 智绘换装 (AI Fashion Try-On)",
+  "description": "基于 Gemini Nano Banana (Flash Image) 的智能换装应用。支持上传或选择人物与服装，一键生成真人试穿效果。",
+  "requestFramePermissions": []
+}
